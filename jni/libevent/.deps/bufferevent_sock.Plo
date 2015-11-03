@@ -1,0 +1,264 @@
+bufferevent_sock.lo: bufferevent_sock.c \
+ /home/spykid/sdm/ndk/platforms/android-8/arch-arm/usr/include/sys/types.h \
+ /home/spykid/sdm/ndk/toolchains/arm-linux-androideabi-4.7/prebuilt/linux-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.7/include/stddef.h \
+ /home/spykid/sdm/ndk/toolchains/arm-linux-androideabi-4.7/prebuilt/linux-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.7/include/stdint.h \
+ /home/spykid/sdm/ndk/platforms/android-8/arch-arm/usr/include/stdint.h \
+ /home/spykid/sdm/ndk/platforms/android-8/arch-arm/usr/include/sys/_types.h \
+ /home/spykid/sdm/ndk/platforms/android-8/arch-arm/usr/include/machine/_types.h \
+ /home/spykid/sdm/ndk/platforms/android-8/arch-arm/usr/include/sys/cdefs.h \
+ /home/spykid/sdm/ndk/platforms/android-8/arch-arm/usr/include/sys/cdefs_elf.h \
+ /home/spykid/sdm/ndk/platforms/android-8/arch-arm/usr/include/android/api-level.h \
+ /home/spykid/sdm/ndk/platforms/android-8/arch-arm/usr/include/linux/posix_types.h \
+ /home/spykid/sdm/ndk/platforms/android-8/arch-arm/usr/include/linux/stddef.h \
+ /home/spykid/sdm/ndk/platforms/android-8/arch-arm/usr/include/linux/compiler.h \
+ /home/spykid/sdm/ndk/platforms/android-8/arch-arm/usr/include/asm/posix_types.h \
+ /home/spykid/sdm/ndk/platforms/android-8/arch-arm/usr/include/asm/types.h \
+ /home/spykid/sdm/ndk/platforms/android-8/arch-arm/usr/include/linux/types.h \
+ /home/spykid/sdm/ndk/platforms/android-8/arch-arm/usr/include/machine/kernel.h \
+ /home/spykid/sdm/ndk/platforms/android-8/arch-arm/usr/include/sys/sysmacros.h \
+ include/event2/event-config.h \
+ /home/spykid/sdm/ndk/platforms/android-8/arch-arm/usr/include/sys/time.h \
+ /home/spykid/sdm/ndk/platforms/android-8/arch-arm/usr/include/linux/time.h \
+ /home/spykid/sdm/ndk/platforms/android-8/arch-arm/usr/include/errno.h \
+ /home/spykid/sdm/ndk/platforms/android-8/arch-arm/usr/include/linux/errno.h \
+ /home/spykid/sdm/ndk/platforms/android-8/arch-arm/usr/include/asm/errno.h \
+ /home/spykid/sdm/ndk/platforms/android-8/arch-arm/usr/include/asm-generic/errno.h \
+ /home/spykid/sdm/ndk/platforms/android-8/arch-arm/usr/include/asm-generic/errno-base.h \
+ /home/spykid/sdm/ndk/toolchains/arm-linux-androideabi-4.7/prebuilt/linux-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.7/include-fixed/stdio.h \
+ /home/spykid/sdm/ndk/toolchains/arm-linux-androideabi-4.7/prebuilt/linux-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.7/include/stdarg.h \
+ /home/spykid/sdm/ndk/platforms/android-8/arch-arm/usr/include/stdlib.h \
+ /home/spykid/sdm/ndk/platforms/android-8/arch-arm/usr/include/string.h \
+ /home/spykid/sdm/ndk/platforms/android-8/arch-arm/usr/include/malloc.h \
+ /home/spykid/sdm/ndk/platforms/android-8/arch-arm/usr/include/alloca.h \
+ /home/spykid/sdm/ndk/platforms/android-8/arch-arm/usr/include/strings.h \
+ /home/spykid/sdm/ndk/platforms/android-8/arch-arm/usr/include/memory.h \
+ /home/spykid/sdm/ndk/platforms/android-8/arch-arm/usr/include/unistd.h \
+ /home/spykid/sdm/ndk/platforms/android-8/arch-arm/usr/include/sys/select.h \
+ /home/spykid/sdm/ndk/platforms/android-8/arch-arm/usr/include/signal.h \
+ /home/spykid/sdm/ndk/toolchains/arm-linux-androideabi-4.7/prebuilt/linux-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.7/include-fixed/limits.h \
+ /home/spykid/sdm/ndk/toolchains/arm-linux-androideabi-4.7/prebuilt/linux-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.7/include-fixed/syslimits.h \
+ /home/spykid/sdm/ndk/platforms/android-8/arch-arm/usr/include/limits.h \
+ /home/spykid/sdm/ndk/platforms/android-8/arch-arm/usr/include/sys/limits.h \
+ /home/spykid/sdm/ndk/platforms/android-8/arch-arm/usr/include/linux/limits.h \
+ /home/spykid/sdm/ndk/platforms/android-8/arch-arm/usr/include/machine/internal_types.h \
+ /home/spykid/sdm/ndk/platforms/android-8/arch-arm/usr/include/machine/limits.h \
+ /home/spykid/sdm/ndk/platforms/android-8/arch-arm/usr/include/sys/syslimits.h \
+ /home/spykid/sdm/ndk/platforms/android-8/arch-arm/usr/include/asm/page.h \
+ /home/spykid/sdm/ndk/platforms/android-8/arch-arm/usr/include/asm/signal.h \
+ /home/spykid/sdm/ndk/platforms/android-8/arch-arm/usr/include/asm-generic/signal.h \
+ /home/spykid/sdm/ndk/platforms/android-8/arch-arm/usr/include/asm/sigcontext.h \
+ /home/spykid/sdm/ndk/platforms/android-8/arch-arm/usr/include/asm/siginfo.h \
+ /home/spykid/sdm/ndk/platforms/android-8/arch-arm/usr/include/asm-generic/siginfo.h \
+ /home/spykid/sdm/ndk/platforms/android-8/arch-arm/usr/include/sys/sysconf.h \
+ /home/spykid/sdm/ndk/platforms/android-8/arch-arm/usr/include/linux/capability.h \
+ /home/spykid/sdm/ndk/platforms/android-8/arch-arm/usr/include/pathconf.h \
+ /home/spykid/sdm/ndk/platforms/android-8/arch-arm/usr/include/sys/socket.h \
+ /home/spykid/sdm/ndk/platforms/android-8/arch-arm/usr/include/linux/socket.h \
+ /home/spykid/sdm/ndk/platforms/android-8/arch-arm/usr/include/asm/socket.h \
+ /home/spykid/sdm/ndk/platforms/android-8/arch-arm/usr/include/asm/sockios.h \
+ /home/spykid/sdm/ndk/platforms/android-8/arch-arm/usr/include/linux/sockios.h \
+ /home/spykid/sdm/ndk/platforms/android-8/arch-arm/usr/include/linux/uio.h \
+ /home/spykid/sdm/ndk/platforms/android-8/arch-arm/usr/include/netinet/in.h \
+ /home/spykid/sdm/ndk/platforms/android-8/arch-arm/usr/include/endian.h \
+ /home/spykid/sdm/ndk/platforms/android-8/arch-arm/usr/include/sys/endian.h \
+ /home/spykid/sdm/ndk/platforms/android-8/arch-arm/usr/include/machine/endian.h \
+ /home/spykid/sdm/ndk/platforms/android-8/arch-arm/usr/include/linux/in.h \
+ /home/spykid/sdm/ndk/platforms/android-8/arch-arm/usr/include/asm/byteorder.h \
+ /home/spykid/sdm/ndk/platforms/android-8/arch-arm/usr/include/linux/byteorder/little_endian.h \
+ /home/spykid/sdm/ndk/platforms/android-8/arch-arm/usr/include/linux/byteorder/swab.h \
+ /home/spykid/sdm/ndk/platforms/android-8/arch-arm/usr/include/linux/byteorder/generic.h \
+ /home/spykid/sdm/ndk/platforms/android-8/arch-arm/usr/include/linux/in6.h \
+ /home/spykid/sdm/ndk/platforms/android-8/arch-arm/usr/include/linux/ipv6.h \
+ /home/spykid/sdm/ndk/platforms/android-8/arch-arm/usr/include/netinet/in6.h \
+ include/event2/util.h \
+ /home/spykid/sdm/ndk/platforms/android-8/arch-arm/usr/include/netdb.h \
+ include/event2/bufferevent.h include/event2/buffer.h \
+ /home/spykid/sdm/ndk/platforms/android-8/arch-arm/usr/include/sys/uio.h \
+ include/event2/bufferevent_struct.h include/event2/event_struct.h \
+ include/event2/keyvalq_struct.h include/event2/bufferevent_compat.h \
+ include/event2/event.h log-internal.h mm-internal.h \
+ bufferevent-internal.h defer-internal.h compat/sys/queue.h \
+ evthread-internal.h include/event2/thread.h util-internal.h \
+ ipv6-internal.h ratelim-internal.h
+
+/home/spykid/sdm/ndk/platforms/android-8/arch-arm/usr/include/sys/types.h:
+
+/home/spykid/sdm/ndk/toolchains/arm-linux-androideabi-4.7/prebuilt/linux-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.7/include/stddef.h:
+
+/home/spykid/sdm/ndk/toolchains/arm-linux-androideabi-4.7/prebuilt/linux-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.7/include/stdint.h:
+
+/home/spykid/sdm/ndk/platforms/android-8/arch-arm/usr/include/stdint.h:
+
+/home/spykid/sdm/ndk/platforms/android-8/arch-arm/usr/include/sys/_types.h:
+
+/home/spykid/sdm/ndk/platforms/android-8/arch-arm/usr/include/machine/_types.h:
+
+/home/spykid/sdm/ndk/platforms/android-8/arch-arm/usr/include/sys/cdefs.h:
+
+/home/spykid/sdm/ndk/platforms/android-8/arch-arm/usr/include/sys/cdefs_elf.h:
+
+/home/spykid/sdm/ndk/platforms/android-8/arch-arm/usr/include/android/api-level.h:
+
+/home/spykid/sdm/ndk/platforms/android-8/arch-arm/usr/include/linux/posix_types.h:
+
+/home/spykid/sdm/ndk/platforms/android-8/arch-arm/usr/include/linux/stddef.h:
+
+/home/spykid/sdm/ndk/platforms/android-8/arch-arm/usr/include/linux/compiler.h:
+
+/home/spykid/sdm/ndk/platforms/android-8/arch-arm/usr/include/asm/posix_types.h:
+
+/home/spykid/sdm/ndk/platforms/android-8/arch-arm/usr/include/asm/types.h:
+
+/home/spykid/sdm/ndk/platforms/android-8/arch-arm/usr/include/linux/types.h:
+
+/home/spykid/sdm/ndk/platforms/android-8/arch-arm/usr/include/machine/kernel.h:
+
+/home/spykid/sdm/ndk/platforms/android-8/arch-arm/usr/include/sys/sysmacros.h:
+
+include/event2/event-config.h:
+
+/home/spykid/sdm/ndk/platforms/android-8/arch-arm/usr/include/sys/time.h:
+
+/home/spykid/sdm/ndk/platforms/android-8/arch-arm/usr/include/linux/time.h:
+
+/home/spykid/sdm/ndk/platforms/android-8/arch-arm/usr/include/errno.h:
+
+/home/spykid/sdm/ndk/platforms/android-8/arch-arm/usr/include/linux/errno.h:
+
+/home/spykid/sdm/ndk/platforms/android-8/arch-arm/usr/include/asm/errno.h:
+
+/home/spykid/sdm/ndk/platforms/android-8/arch-arm/usr/include/asm-generic/errno.h:
+
+/home/spykid/sdm/ndk/platforms/android-8/arch-arm/usr/include/asm-generic/errno-base.h:
+
+/home/spykid/sdm/ndk/toolchains/arm-linux-androideabi-4.7/prebuilt/linux-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.7/include-fixed/stdio.h:
+
+/home/spykid/sdm/ndk/toolchains/arm-linux-androideabi-4.7/prebuilt/linux-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.7/include/stdarg.h:
+
+/home/spykid/sdm/ndk/platforms/android-8/arch-arm/usr/include/stdlib.h:
+
+/home/spykid/sdm/ndk/platforms/android-8/arch-arm/usr/include/string.h:
+
+/home/spykid/sdm/ndk/platforms/android-8/arch-arm/usr/include/malloc.h:
+
+/home/spykid/sdm/ndk/platforms/android-8/arch-arm/usr/include/alloca.h:
+
+/home/spykid/sdm/ndk/platforms/android-8/arch-arm/usr/include/strings.h:
+
+/home/spykid/sdm/ndk/platforms/android-8/arch-arm/usr/include/memory.h:
+
+/home/spykid/sdm/ndk/platforms/android-8/arch-arm/usr/include/unistd.h:
+
+/home/spykid/sdm/ndk/platforms/android-8/arch-arm/usr/include/sys/select.h:
+
+/home/spykid/sdm/ndk/platforms/android-8/arch-arm/usr/include/signal.h:
+
+/home/spykid/sdm/ndk/toolchains/arm-linux-androideabi-4.7/prebuilt/linux-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.7/include-fixed/limits.h:
+
+/home/spykid/sdm/ndk/toolchains/arm-linux-androideabi-4.7/prebuilt/linux-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.7/include-fixed/syslimits.h:
+
+/home/spykid/sdm/ndk/platforms/android-8/arch-arm/usr/include/limits.h:
+
+/home/spykid/sdm/ndk/platforms/android-8/arch-arm/usr/include/sys/limits.h:
+
+/home/spykid/sdm/ndk/platforms/android-8/arch-arm/usr/include/linux/limits.h:
+
+/home/spykid/sdm/ndk/platforms/android-8/arch-arm/usr/include/machine/internal_types.h:
+
+/home/spykid/sdm/ndk/platforms/android-8/arch-arm/usr/include/machine/limits.h:
+
+/home/spykid/sdm/ndk/platforms/android-8/arch-arm/usr/include/sys/syslimits.h:
+
+/home/spykid/sdm/ndk/platforms/android-8/arch-arm/usr/include/asm/page.h:
+
+/home/spykid/sdm/ndk/platforms/android-8/arch-arm/usr/include/asm/signal.h:
+
+/home/spykid/sdm/ndk/platforms/android-8/arch-arm/usr/include/asm-generic/signal.h:
+
+/home/spykid/sdm/ndk/platforms/android-8/arch-arm/usr/include/asm/sigcontext.h:
+
+/home/spykid/sdm/ndk/platforms/android-8/arch-arm/usr/include/asm/siginfo.h:
+
+/home/spykid/sdm/ndk/platforms/android-8/arch-arm/usr/include/asm-generic/siginfo.h:
+
+/home/spykid/sdm/ndk/platforms/android-8/arch-arm/usr/include/sys/sysconf.h:
+
+/home/spykid/sdm/ndk/platforms/android-8/arch-arm/usr/include/linux/capability.h:
+
+/home/spykid/sdm/ndk/platforms/android-8/arch-arm/usr/include/pathconf.h:
+
+/home/spykid/sdm/ndk/platforms/android-8/arch-arm/usr/include/sys/socket.h:
+
+/home/spykid/sdm/ndk/platforms/android-8/arch-arm/usr/include/linux/socket.h:
+
+/home/spykid/sdm/ndk/platforms/android-8/arch-arm/usr/include/asm/socket.h:
+
+/home/spykid/sdm/ndk/platforms/android-8/arch-arm/usr/include/asm/sockios.h:
+
+/home/spykid/sdm/ndk/platforms/android-8/arch-arm/usr/include/linux/sockios.h:
+
+/home/spykid/sdm/ndk/platforms/android-8/arch-arm/usr/include/linux/uio.h:
+
+/home/spykid/sdm/ndk/platforms/android-8/arch-arm/usr/include/netinet/in.h:
+
+/home/spykid/sdm/ndk/platforms/android-8/arch-arm/usr/include/endian.h:
+
+/home/spykid/sdm/ndk/platforms/android-8/arch-arm/usr/include/sys/endian.h:
+
+/home/spykid/sdm/ndk/platforms/android-8/arch-arm/usr/include/machine/endian.h:
+
+/home/spykid/sdm/ndk/platforms/android-8/arch-arm/usr/include/linux/in.h:
+
+/home/spykid/sdm/ndk/platforms/android-8/arch-arm/usr/include/asm/byteorder.h:
+
+/home/spykid/sdm/ndk/platforms/android-8/arch-arm/usr/include/linux/byteorder/little_endian.h:
+
+/home/spykid/sdm/ndk/platforms/android-8/arch-arm/usr/include/linux/byteorder/swab.h:
+
+/home/spykid/sdm/ndk/platforms/android-8/arch-arm/usr/include/linux/byteorder/generic.h:
+
+/home/spykid/sdm/ndk/platforms/android-8/arch-arm/usr/include/linux/in6.h:
+
+/home/spykid/sdm/ndk/platforms/android-8/arch-arm/usr/include/linux/ipv6.h:
+
+/home/spykid/sdm/ndk/platforms/android-8/arch-arm/usr/include/netinet/in6.h:
+
+include/event2/util.h:
+
+/home/spykid/sdm/ndk/platforms/android-8/arch-arm/usr/include/netdb.h:
+
+include/event2/bufferevent.h:
+
+include/event2/buffer.h:
+
+/home/spykid/sdm/ndk/platforms/android-8/arch-arm/usr/include/sys/uio.h:
+
+include/event2/bufferevent_struct.h:
+
+include/event2/event_struct.h:
+
+include/event2/keyvalq_struct.h:
+
+include/event2/bufferevent_compat.h:
+
+include/event2/event.h:
+
+log-internal.h:
+
+mm-internal.h:
+
+bufferevent-internal.h:
+
+defer-internal.h:
+
+compat/sys/queue.h:
+
+evthread-internal.h:
+
+include/event2/thread.h:
+
+util-internal.h:
+
+ipv6-internal.h:
+
+ratelim-internal.h:

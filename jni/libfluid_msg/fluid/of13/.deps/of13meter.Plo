@@ -1,0 +1,233 @@
+fluid/of13/of13meter.lo: fluid/of13/of13meter.cc fluid/util/util.h \
+ /home/spykid/sdm/ndk/toolchains/arm-linux-androideabi-4.7/prebuilt/linux-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.7/include/stdarg.h \
+ /home/spykid/sdm/ndk/toolchains/arm-linux-androideabi-4.7/prebuilt/linux-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.7/include/stdbool.h \
+ /home/spykid/sdm/ndk/toolchains/arm-linux-androideabi-4.7/prebuilt/linux-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.7/include/stddef.h \
+ /home/spykid/sdm/ndk/toolchains/arm-linux-androideabi-4.7/prebuilt/linux-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.7/include/stdint.h \
+ /home/spykid/sdm/ndk/platforms/android-8/arch-arm/usr/include/stdint.h \
+ /home/spykid/sdm/ndk/platforms/android-8/arch-arm/usr/include/sys/_types.h \
+ /home/spykid/sdm/ndk/platforms/android-8/arch-arm/usr/include/machine/_types.h \
+ /home/spykid/sdm/ndk/toolchains/arm-linux-androideabi-4.7/prebuilt/linux-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.7/include-fixed/stdio.h \
+ /home/spykid/sdm/ndk/platforms/android-8/arch-arm/usr/include/sys/cdefs.h \
+ /home/spykid/sdm/ndk/platforms/android-8/arch-arm/usr/include/sys/cdefs_elf.h \
+ /home/spykid/sdm/ndk/platforms/android-8/arch-arm/usr/include/android/api-level.h \
+ /home/spykid/sdm/ndk/platforms/android-8/arch-arm/usr/include/sys/types.h \
+ /home/spykid/sdm/ndk/platforms/android-8/arch-arm/usr/include/linux/posix_types.h \
+ /home/spykid/sdm/ndk/platforms/android-8/arch-arm/usr/include/linux/stddef.h \
+ /home/spykid/sdm/ndk/platforms/android-8/arch-arm/usr/include/linux/compiler.h \
+ /home/spykid/sdm/ndk/platforms/android-8/arch-arm/usr/include/asm/posix_types.h \
+ /home/spykid/sdm/ndk/platforms/android-8/arch-arm/usr/include/asm/types.h \
+ /home/spykid/sdm/ndk/platforms/android-8/arch-arm/usr/include/linux/types.h \
+ /home/spykid/sdm/ndk/platforms/android-8/arch-arm/usr/include/machine/kernel.h \
+ /home/spykid/sdm/ndk/platforms/android-8/arch-arm/usr/include/sys/sysmacros.h \
+ /home/spykid/sdm/ndk/platforms/android-8/arch-arm/usr/include/string.h \
+ /home/spykid/sdm/ndk/platforms/android-8/arch-arm/usr/include/malloc.h \
+ /home/spykid/sdm/ndk/platforms/android-8/arch-arm/usr/include/assert.h \
+ /home/spykid/sdm/ndk/platforms/android-8/arch-arm/usr/include/arpa/inet.h \
+ /home/spykid/sdm/ndk/platforms/android-8/arch-arm/usr/include/netinet/in.h \
+ /home/spykid/sdm/ndk/platforms/android-8/arch-arm/usr/include/endian.h \
+ /home/spykid/sdm/ndk/platforms/android-8/arch-arm/usr/include/sys/endian.h \
+ /home/spykid/sdm/ndk/platforms/android-8/arch-arm/usr/include/machine/endian.h \
+ /home/spykid/sdm/ndk/platforms/android-8/arch-arm/usr/include/linux/socket.h \
+ /home/spykid/sdm/ndk/platforms/android-8/arch-arm/usr/include/asm/socket.h \
+ /home/spykid/sdm/ndk/platforms/android-8/arch-arm/usr/include/asm/sockios.h \
+ /home/spykid/sdm/ndk/platforms/android-8/arch-arm/usr/include/linux/sockios.h \
+ /home/spykid/sdm/ndk/platforms/android-8/arch-arm/usr/include/linux/uio.h \
+ /home/spykid/sdm/ndk/platforms/android-8/arch-arm/usr/include/linux/in.h \
+ /home/spykid/sdm/ndk/platforms/android-8/arch-arm/usr/include/asm/byteorder.h \
+ /home/spykid/sdm/ndk/platforms/android-8/arch-arm/usr/include/linux/byteorder/little_endian.h \
+ /home/spykid/sdm/ndk/platforms/android-8/arch-arm/usr/include/linux/byteorder/swab.h \
+ /home/spykid/sdm/ndk/platforms/android-8/arch-arm/usr/include/linux/byteorder/generic.h \
+ /home/spykid/sdm/ndk/platforms/android-8/arch-arm/usr/include/linux/in6.h \
+ /home/spykid/sdm/ndk/platforms/android-8/arch-arm/usr/include/linux/ipv6.h \
+ /home/spykid/sdm/ndk/platforms/android-8/arch-arm/usr/include/netinet/in6.h \
+ fluid/of13/of13meter.hh fluid/of13/openflow-13.h \
+ fluid/ofcommon/openflow-common.hh \
+ /home/spykid/sdm/ndk/sources/cxx-stl/gnu-libstdc++/4.7/include/list \
+ /home/spykid/sdm/ndk/sources/cxx-stl/gnu-libstdc++/4.7/include/bits/stl_algobase.h \
+ /home/spykid/sdm/ndk/sources/cxx-stl/gnu-libstdc++/4.7/libs/armeabi-v7a/include/bits/c++config.h \
+ /home/spykid/sdm/ndk/sources/cxx-stl/gnu-libstdc++/4.7/libs/armeabi-v7a/include/bits/os_defines.h \
+ /home/spykid/sdm/ndk/sources/cxx-stl/gnu-libstdc++/4.7/libs/armeabi-v7a/include/bits/cpu_defines.h \
+ /home/spykid/sdm/ndk/sources/cxx-stl/gnu-libstdc++/4.7/include/bits/functexcept.h \
+ /home/spykid/sdm/ndk/sources/cxx-stl/gnu-libstdc++/4.7/include/bits/exception_defines.h \
+ /home/spykid/sdm/ndk/sources/cxx-stl/gnu-libstdc++/4.7/include/bits/cpp_type_traits.h \
+ /home/spykid/sdm/ndk/sources/cxx-stl/gnu-libstdc++/4.7/include/ext/type_traits.h \
+ /home/spykid/sdm/ndk/sources/cxx-stl/gnu-libstdc++/4.7/include/ext/numeric_traits.h \
+ /home/spykid/sdm/ndk/sources/cxx-stl/gnu-libstdc++/4.7/include/bits/stl_pair.h \
+ /home/spykid/sdm/ndk/sources/cxx-stl/gnu-libstdc++/4.7/include/bits/move.h \
+ /home/spykid/sdm/ndk/sources/cxx-stl/gnu-libstdc++/4.7/include/bits/concept_check.h \
+ /home/spykid/sdm/ndk/sources/cxx-stl/gnu-libstdc++/4.7/include/bits/stl_iterator_base_types.h \
+ /home/spykid/sdm/ndk/sources/cxx-stl/gnu-libstdc++/4.7/include/bits/stl_iterator_base_funcs.h \
+ /home/spykid/sdm/ndk/sources/cxx-stl/gnu-libstdc++/4.7/include/bits/stl_iterator.h \
+ /home/spykid/sdm/ndk/sources/cxx-stl/gnu-libstdc++/4.7/include/debug/debug.h \
+ /home/spykid/sdm/ndk/sources/cxx-stl/gnu-libstdc++/4.7/include/bits/allocator.h \
+ /home/spykid/sdm/ndk/sources/cxx-stl/gnu-libstdc++/4.7/libs/armeabi-v7a/include/bits/c++allocator.h \
+ /home/spykid/sdm/ndk/sources/cxx-stl/gnu-libstdc++/4.7/include/ext/new_allocator.h \
+ /home/spykid/sdm/ndk/sources/cxx-stl/gnu-libstdc++/4.7/include/new \
+ /home/spykid/sdm/ndk/sources/cxx-stl/gnu-libstdc++/4.7/include/exception \
+ /home/spykid/sdm/ndk/sources/cxx-stl/gnu-libstdc++/4.7/include/bits/atomic_lockfree_defines.h \
+ /home/spykid/sdm/ndk/sources/cxx-stl/gnu-libstdc++/4.7/include/bits/range_access.h \
+ /home/spykid/sdm/ndk/sources/cxx-stl/gnu-libstdc++/4.7/include/bits/stl_list.h \
+ /home/spykid/sdm/ndk/sources/cxx-stl/gnu-libstdc++/4.7/include/bits/list.tcc \
+ /home/spykid/sdm/ndk/sources/cxx-stl/gnu-libstdc++/4.7/include/vector \
+ /home/spykid/sdm/ndk/sources/cxx-stl/gnu-libstdc++/4.7/include/bits/stl_construct.h \
+ /home/spykid/sdm/ndk/sources/cxx-stl/gnu-libstdc++/4.7/include/ext/alloc_traits.h \
+ /home/spykid/sdm/ndk/sources/cxx-stl/gnu-libstdc++/4.7/include/bits/stl_uninitialized.h \
+ /home/spykid/sdm/ndk/sources/cxx-stl/gnu-libstdc++/4.7/include/bits/stl_vector.h \
+ /home/spykid/sdm/ndk/sources/cxx-stl/gnu-libstdc++/4.7/include/bits/stl_bvector.h \
+ /home/spykid/sdm/ndk/sources/cxx-stl/gnu-libstdc++/4.7/include/bits/vector.tcc
+
+fluid/util/util.h:
+
+/home/spykid/sdm/ndk/toolchains/arm-linux-androideabi-4.7/prebuilt/linux-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.7/include/stdarg.h:
+
+/home/spykid/sdm/ndk/toolchains/arm-linux-androideabi-4.7/prebuilt/linux-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.7/include/stdbool.h:
+
+/home/spykid/sdm/ndk/toolchains/arm-linux-androideabi-4.7/prebuilt/linux-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.7/include/stddef.h:
+
+/home/spykid/sdm/ndk/toolchains/arm-linux-androideabi-4.7/prebuilt/linux-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.7/include/stdint.h:
+
+/home/spykid/sdm/ndk/platforms/android-8/arch-arm/usr/include/stdint.h:
+
+/home/spykid/sdm/ndk/platforms/android-8/arch-arm/usr/include/sys/_types.h:
+
+/home/spykid/sdm/ndk/platforms/android-8/arch-arm/usr/include/machine/_types.h:
+
+/home/spykid/sdm/ndk/toolchains/arm-linux-androideabi-4.7/prebuilt/linux-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.7/include-fixed/stdio.h:
+
+/home/spykid/sdm/ndk/platforms/android-8/arch-arm/usr/include/sys/cdefs.h:
+
+/home/spykid/sdm/ndk/platforms/android-8/arch-arm/usr/include/sys/cdefs_elf.h:
+
+/home/spykid/sdm/ndk/platforms/android-8/arch-arm/usr/include/android/api-level.h:
+
+/home/spykid/sdm/ndk/platforms/android-8/arch-arm/usr/include/sys/types.h:
+
+/home/spykid/sdm/ndk/platforms/android-8/arch-arm/usr/include/linux/posix_types.h:
+
+/home/spykid/sdm/ndk/platforms/android-8/arch-arm/usr/include/linux/stddef.h:
+
+/home/spykid/sdm/ndk/platforms/android-8/arch-arm/usr/include/linux/compiler.h:
+
+/home/spykid/sdm/ndk/platforms/android-8/arch-arm/usr/include/asm/posix_types.h:
+
+/home/spykid/sdm/ndk/platforms/android-8/arch-arm/usr/include/asm/types.h:
+
+/home/spykid/sdm/ndk/platforms/android-8/arch-arm/usr/include/linux/types.h:
+
+/home/spykid/sdm/ndk/platforms/android-8/arch-arm/usr/include/machine/kernel.h:
+
+/home/spykid/sdm/ndk/platforms/android-8/arch-arm/usr/include/sys/sysmacros.h:
+
+/home/spykid/sdm/ndk/platforms/android-8/arch-arm/usr/include/string.h:
+
+/home/spykid/sdm/ndk/platforms/android-8/arch-arm/usr/include/malloc.h:
+
+/home/spykid/sdm/ndk/platforms/android-8/arch-arm/usr/include/assert.h:
+
+/home/spykid/sdm/ndk/platforms/android-8/arch-arm/usr/include/arpa/inet.h:
+
+/home/spykid/sdm/ndk/platforms/android-8/arch-arm/usr/include/netinet/in.h:
+
+/home/spykid/sdm/ndk/platforms/android-8/arch-arm/usr/include/endian.h:
+
+/home/spykid/sdm/ndk/platforms/android-8/arch-arm/usr/include/sys/endian.h:
+
+/home/spykid/sdm/ndk/platforms/android-8/arch-arm/usr/include/machine/endian.h:
+
+/home/spykid/sdm/ndk/platforms/android-8/arch-arm/usr/include/linux/socket.h:
+
+/home/spykid/sdm/ndk/platforms/android-8/arch-arm/usr/include/asm/socket.h:
+
+/home/spykid/sdm/ndk/platforms/android-8/arch-arm/usr/include/asm/sockios.h:
+
+/home/spykid/sdm/ndk/platforms/android-8/arch-arm/usr/include/linux/sockios.h:
+
+/home/spykid/sdm/ndk/platforms/android-8/arch-arm/usr/include/linux/uio.h:
+
+/home/spykid/sdm/ndk/platforms/android-8/arch-arm/usr/include/linux/in.h:
+
+/home/spykid/sdm/ndk/platforms/android-8/arch-arm/usr/include/asm/byteorder.h:
+
+/home/spykid/sdm/ndk/platforms/android-8/arch-arm/usr/include/linux/byteorder/little_endian.h:
+
+/home/spykid/sdm/ndk/platforms/android-8/arch-arm/usr/include/linux/byteorder/swab.h:
+
+/home/spykid/sdm/ndk/platforms/android-8/arch-arm/usr/include/linux/byteorder/generic.h:
+
+/home/spykid/sdm/ndk/platforms/android-8/arch-arm/usr/include/linux/in6.h:
+
+/home/spykid/sdm/ndk/platforms/android-8/arch-arm/usr/include/linux/ipv6.h:
+
+/home/spykid/sdm/ndk/platforms/android-8/arch-arm/usr/include/netinet/in6.h:
+
+fluid/of13/of13meter.hh:
+
+fluid/of13/openflow-13.h:
+
+fluid/ofcommon/openflow-common.hh:
+
+/home/spykid/sdm/ndk/sources/cxx-stl/gnu-libstdc++/4.7/include/list:
+
+/home/spykid/sdm/ndk/sources/cxx-stl/gnu-libstdc++/4.7/include/bits/stl_algobase.h:
+
+/home/spykid/sdm/ndk/sources/cxx-stl/gnu-libstdc++/4.7/libs/armeabi-v7a/include/bits/c++config.h:
+
+/home/spykid/sdm/ndk/sources/cxx-stl/gnu-libstdc++/4.7/libs/armeabi-v7a/include/bits/os_defines.h:
+
+/home/spykid/sdm/ndk/sources/cxx-stl/gnu-libstdc++/4.7/libs/armeabi-v7a/include/bits/cpu_defines.h:
+
+/home/spykid/sdm/ndk/sources/cxx-stl/gnu-libstdc++/4.7/include/bits/functexcept.h:
+
+/home/spykid/sdm/ndk/sources/cxx-stl/gnu-libstdc++/4.7/include/bits/exception_defines.h:
+
+/home/spykid/sdm/ndk/sources/cxx-stl/gnu-libstdc++/4.7/include/bits/cpp_type_traits.h:
+
+/home/spykid/sdm/ndk/sources/cxx-stl/gnu-libstdc++/4.7/include/ext/type_traits.h:
+
+/home/spykid/sdm/ndk/sources/cxx-stl/gnu-libstdc++/4.7/include/ext/numeric_traits.h:
+
+/home/spykid/sdm/ndk/sources/cxx-stl/gnu-libstdc++/4.7/include/bits/stl_pair.h:
+
+/home/spykid/sdm/ndk/sources/cxx-stl/gnu-libstdc++/4.7/include/bits/move.h:
+
+/home/spykid/sdm/ndk/sources/cxx-stl/gnu-libstdc++/4.7/include/bits/concept_check.h:
+
+/home/spykid/sdm/ndk/sources/cxx-stl/gnu-libstdc++/4.7/include/bits/stl_iterator_base_types.h:
+
+/home/spykid/sdm/ndk/sources/cxx-stl/gnu-libstdc++/4.7/include/bits/stl_iterator_base_funcs.h:
+
+/home/spykid/sdm/ndk/sources/cxx-stl/gnu-libstdc++/4.7/include/bits/stl_iterator.h:
+
+/home/spykid/sdm/ndk/sources/cxx-stl/gnu-libstdc++/4.7/include/debug/debug.h:
+
+/home/spykid/sdm/ndk/sources/cxx-stl/gnu-libstdc++/4.7/include/bits/allocator.h:
+
+/home/spykid/sdm/ndk/sources/cxx-stl/gnu-libstdc++/4.7/libs/armeabi-v7a/include/bits/c++allocator.h:
+
+/home/spykid/sdm/ndk/sources/cxx-stl/gnu-libstdc++/4.7/include/ext/new_allocator.h:
+
+/home/spykid/sdm/ndk/sources/cxx-stl/gnu-libstdc++/4.7/include/new:
+
+/home/spykid/sdm/ndk/sources/cxx-stl/gnu-libstdc++/4.7/include/exception:
+
+/home/spykid/sdm/ndk/sources/cxx-stl/gnu-libstdc++/4.7/include/bits/atomic_lockfree_defines.h:
+
+/home/spykid/sdm/ndk/sources/cxx-stl/gnu-libstdc++/4.7/include/bits/range_access.h:
+
+/home/spykid/sdm/ndk/sources/cxx-stl/gnu-libstdc++/4.7/include/bits/stl_list.h:
+
+/home/spykid/sdm/ndk/sources/cxx-stl/gnu-libstdc++/4.7/include/bits/list.tcc:
+
+/home/spykid/sdm/ndk/sources/cxx-stl/gnu-libstdc++/4.7/include/vector:
+
+/home/spykid/sdm/ndk/sources/cxx-stl/gnu-libstdc++/4.7/include/bits/stl_construct.h:
+
+/home/spykid/sdm/ndk/sources/cxx-stl/gnu-libstdc++/4.7/include/ext/alloc_traits.h:
+
+/home/spykid/sdm/ndk/sources/cxx-stl/gnu-libstdc++/4.7/include/bits/stl_uninitialized.h:
+
+/home/spykid/sdm/ndk/sources/cxx-stl/gnu-libstdc++/4.7/include/bits/stl_vector.h:
+
+/home/spykid/sdm/ndk/sources/cxx-stl/gnu-libstdc++/4.7/include/bits/stl_bvector.h:
+
+/home/spykid/sdm/ndk/sources/cxx-stl/gnu-libstdc++/4.7/include/bits/vector.tcc:

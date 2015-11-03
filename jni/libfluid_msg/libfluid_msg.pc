@@ -1,0 +1,11 @@
+prefix=/usr/local
+exec_prefix=${prefix}
+libdir=${exec_prefix}/lib
+includedir=${prefix}/include
+
+Name: libfluid_msg
+Description: The message API of LibFluid
+Version: 1.0
+URL: http://www.cpqd.com.br/
+Libs: -L${libdir} -lfluid_msg
+Cflags: -I${includedir}/fluid

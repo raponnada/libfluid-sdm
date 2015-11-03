@@ -1,0 +1,19 @@
+fluid/OFServerSettings.lo: fluid/OFServerSettings.cc \
+ fluid/OFServerSettings.hh \
+ /home/spykid/sdm/ndk/toolchains/arm-linux-androideabi-4.7/prebuilt/linux-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.7/include/stdint.h \
+ /home/spykid/sdm/ndk/platforms/android-8/arch-arm/usr/include/stdint.h \
+ /home/spykid/sdm/ndk/toolchains/arm-linux-androideabi-4.7/prebuilt/linux-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.7/include/stddef.h \
+ /home/spykid/sdm/ndk/platforms/android-8/arch-arm/usr/include/sys/_types.h \
+ /home/spykid/sdm/ndk/platforms/android-8/arch-arm/usr/include/machine/_types.h
+
+fluid/OFServerSettings.hh:
+
+/home/spykid/sdm/ndk/toolchains/arm-linux-androideabi-4.7/prebuilt/linux-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.7/include/stdint.h:
+
+/home/spykid/sdm/ndk/platforms/android-8/arch-arm/usr/include/stdint.h:
+
+/home/spykid/sdm/ndk/toolchains/arm-linux-androideabi-4.7/prebuilt/linux-x86_64/bin/../lib/gcc/arm-linux-androideabi/4.7/include/stddef.h:
+
+/home/spykid/sdm/ndk/platforms/android-8/arch-arm/usr/include/sys/_types.h:
+
+/home/spykid/sdm/ndk/platforms/android-8/arch-arm/usr/include/machine/_types.h:

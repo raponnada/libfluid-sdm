@@ -1,0 +1,12 @@
+prefix=/usr/local
+exec_prefix=${prefix}
+libdir=${exec_prefix}/lib
+includedir=${prefix}/include
+
+Name: libfluid_base
+Description: The network portion of LibFluid
+Requires: libevent >= 2.0.16-stable libevent_pthreads >= 2.0.16-stable
+Version: 1.0
+URL: http://www.cpqd.com.br/
+Libs: -L${libdir} -lfluid_base
+Cflags: -I${includedir}/fluid
